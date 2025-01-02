@@ -21,7 +21,7 @@ users_collection = db['VAMPIREXCHEATS']
 redeem_codes_collection = db['redeem_codes0']
 
 TELEGRAM_BOT_TOKEN = '7606292643:AAFnV8TDuQGvfyTpyKFdaKIH_iI8FsPkzwQ'
-ADMIN_USER_ID = 930577300  
+ADMIN_USER_ID = 930577300
 
 cooldown_dict = {}
 user_attack_history = {}
